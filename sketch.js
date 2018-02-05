@@ -24,7 +24,6 @@ function preload() {
 }
 
 function setup() {
-  //createCanvas(windowWidth, windowHeight-100);
   createCanvas(windowWidth, windowHeight-100);
 
   temperatureButton = createButton("Temperature View");
